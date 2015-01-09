@@ -1,0 +1,9 @@
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\bin\Debug\AddNumbers.exe.config
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\bin\Debug\AddNumbers.exe
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\bin\Debug\AddNumbers.pdb
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.csprojResolveAssemblyReference.cache
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.Form1.resources
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.Properties.Resources.resources
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.csproj.GenerateResource.Cache
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.exe
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers\obj\Debug\AddNumbers.pdb

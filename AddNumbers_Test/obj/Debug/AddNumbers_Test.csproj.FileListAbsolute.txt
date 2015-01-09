@@ -1,0 +1,7 @@
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\obj\Debug\AddNumbers_Test.csprojResolveAssemblyReference.cache
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\bin\Debug\AddNumbers_Test.dll
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\bin\Debug\AddNumbers_Test.pdb
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\bin\Debug\AddNumbers.exe
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\bin\Debug\AddNumbers.pdb
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\obj\Debug\AddNumbers_Test.dll
+c:\users\anamomar\documents\visual studio 2013\Projects\AddNumbers\AddNumbers_Test\obj\Debug\AddNumbers_Test.pdb
